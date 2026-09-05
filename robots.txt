@@ -1,0 +1,4 @@
+# Önizleme yayını: içerik müşteri onayından geçmemiştir.
+# Arama motorlarının tamamına kapalıdır.
+User-agent: *
+Disallow: /
